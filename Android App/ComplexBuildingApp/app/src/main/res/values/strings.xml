@@ -1,0 +1,92 @@
+<resources>
+    <string name="google_maps_key">AIzaSyAF1Wp0S7t2OShoJ5SDwvNgicKFfOkXhSM</string>
+    
+    <!--Nav Menu-->
+    <string name="nav_home">Home</string>
+    <string name="nav_complex_building">ህንፃ</string>
+    <string name="nav_letter">Letter</string>
+    <string name="nav_category">Category</string>
+    <string name="nav_office">Office</string>
+    <string name="nav_communicate">Communicate</string>
+    <string name="nav_share">Share</string>
+    <string name="nav_email">Email</string>
+    <string name="nav_email_address">contact@pilasatech.com</string>
+    <string name="nav_website_address">www.pilasatech.com</string>
+    <string name="nav_search_office">Search Office</string>
+
+    <!--UI strings-->
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="complexBuilding">Building</string>
+    <string name="category">Category</string>
+    <string name="level">Level</string>
+    <string name="letter">Letter</string>
+    <string name="image">Image</string>
+    <string name="number">Number</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="submit">Submit</string>
+
+
+    <!--payment validation-->
+    <string name="name_is_required">Please enter name</string>
+    <string name="number_is_required">Please enter number</string>
+    <string name="longitude_is_required">Please enter longitude</string>
+    <string name="latitude_is_required">Please enter latitude</string>
+    <string name="image_is_required">Please select Image</string>
+    <string name="buildingId_is_required">Please Select price type</string>
+    <string name="level_is_required">Please Select Level</string>
+    <string name="categoryId_is_required">Please Select Category</string>
+    <string name="letterId_is_required">Please Select Letter</string>
+
+    <string name="fullName_is_required">Please ente full name</string>
+    <string name="phoneNumber_is_required">Please ente phone number</string>
+    <string name="paidAmount_is_required">Invalid Payment</string>
+    <string name="homeOrAwayStatus_is_required">Please Select your team</string>
+    <string name="accountNumber_is_required">Recipient not found.</string>
+
+    <string name="categories_count">Service Categories</string>
+    <string name="offices_count">Total Offices</string>
+
+    <string name="no_result_found">No Result Found</string>
+    <string name="OK">OK</string>
+    <string name="categories">Categories</string>
+    <string name="complex_buildings">Complex Buildings</string>
+    <string name="offices">Offices</string>
+    <string name="letters">Letters</string>
+
+    <string name="search_by_name">Search by Office</string>
+    <string name="go_to_index">Go to Index</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">+ Add</string>
+    <string name="Alert_Title">@string/app_name</string>
+    <string name="row_inserted">One row inserted.</string>
+    <string name="row_updated">One row updated.</string>
+    <string name="operation_failed">Operation failed.</string>
+    <string name="Operation_Canceled">Operation Canceled!</string>
+    <string name="Are_you_sure_to_pay">Are you sure to pay?</string>
+    <string name="Yes_Continue">Yes, Continue</string>
+    <string name="No_Cancel">No, Cancel</string>
+    <string name="app_name">Building Router</string>
+    <string name="app_description">Browse Commercial Building Easily.\nIt saves your invaluable time. </string>
+
+    <string name="uri_scheme">example</string>
+    <string name="uri_authority">android.com</string>
+    <string name="uri_path">/</string>
+    <string name="uri_param_name">return</string>
+    <string name="ussd_permission_message">
+        <!--This service records pop ups sent by your mobile operator, and saves them in My-USSD App. It is absolutely safe to use.-->
+        Switch ON in the top right corner to enable this service
+        After enabling this service
+        . You are able to make payments with this app
+        Application Commitment:
+        We Promise that this service is only used for above features and we never collect or track any private information.
+    </string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="google_maps_key">KEY</string>
+
+
+</resources>
